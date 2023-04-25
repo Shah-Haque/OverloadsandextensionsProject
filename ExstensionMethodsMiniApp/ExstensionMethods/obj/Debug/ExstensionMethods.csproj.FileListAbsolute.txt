@@ -1,0 +1,8 @@
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\bin\Debug\ExstensionMethods.exe.config
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\bin\Debug\ExstensionMethods.exe
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\bin\Debug\ExstensionMethods.pdb
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\obj\Debug\ExstensionMethods.csproj.AssemblyReference.cache
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\obj\Debug\ExstensionMethods.csproj.SuggestedBindingRedirects.cache
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\obj\Debug\ExstensionMethods.csproj.CoreCompileInputs.cache
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\obj\Debug\ExstensionMethods.exe
+C:\Development\ExstensionMethodsMiniApp\ExstensionMethods\obj\Debug\ExstensionMethods.pdb
